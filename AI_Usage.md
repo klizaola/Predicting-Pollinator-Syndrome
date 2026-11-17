@@ -1,3 +1,15 @@
+# AI Use Log 11/16/26
+
+Tool: Microsoft Copilot
+
+Model: Copilot Auto
+
+Version: bizchat.20261114.70.3
+
+Prompt: "what are the groups i define for validation using groups = np.array with a multilabelbinarizer transformed dataset where microbes present for each different plant sample are binary and include pollinator type data"
+
+What was changed before committing: nothing, I used this prompt to better understand how to write the data using code from this website: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html
+
 # AI Use Log 11/15/2026 
 
 Tool: Google Colab Gemini Chat
@@ -12,15 +24,3 @@ What was changed before committing: added missing column names, read through cod
 
 How correctness was verified: command + F in Google Sheets dataset to confirm value occurances match with code output 
 
-
-# AI Use Log 11/16/26
-
-Tool: Microsoft Copilot
-
-Model: Copilot Auto
-
-Version: bizchat.20261114.70.3
-
-Prompt: "what are the groups i define for validation using groups = np.array with a multilabelbinarizer transformed dataset where microbes present for each different plant sample are binary and include pollinator type data"
-
-What was changed before committing: nothing, I used this prompt to better understand how to write the data using code from this website: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html
