@@ -12,7 +12,7 @@ C) "how to do grouped validation and a simple baseline using random forest thres
 
 What was changed before committing: A, B) nothing, I used this prompt to confirm what I was already going to do and to better understand how to write the data using code from this website: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html 
 
-C) this was used as a skeleton outline of the code we needed to do the grouped validation and simple baseline, i changed the random state value and used the website linked above along with this one (https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/) to understand what each parameter does. i typed the chunks of code needed in by hand and used tab to autofill with the object names i created in colab
+C) this was used as a skeleton outline of the code we needed to do the grouped validation and simple baseline, i changed the random state value and used the website linked above along with this one (https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/) to understand what each parameter does. i typed the chunks of code needed in by hand and used tab to autofill with the object names i created in colab. i ran this, and then got errors from typos and mislabeled objects from when i was changing names as i typed the code by hand, so Gemini 3.5 Flash in Google Colab "cleaned" this
 
 How correctness was verified: cross checked with the previously listed websites
 
