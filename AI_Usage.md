@@ -1,3 +1,18 @@
+# AI Use Log 11/19/26
+
+Tool: Google Gemini
+
+Model: Gemini Chat
+
+Version: Gemini 3.5 Flash
+
+Prompt: "how to modify this code so that short-tongued insects and long tongued insects are grouped together to form 3 possible pollinator types: beetles, birds, and tonged-insects", "explain what each of these cells is doing and how it re-groups the categories"
+
+What was changed before committing: i added a line of code from our original chunk for splitting groups that confirms no leakage occurred by looking through and checking the names of the plant species included in each of the subsets created
+
+How correctness was verified: running the verification line of code and getting the text that prints no leakage has occured
+
+
 # AI Use Log 11/16/26
 
 Tool: Microsoft Copilot
