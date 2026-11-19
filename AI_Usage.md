@@ -1,5 +1,17 @@
 # AI Use Log 11/19/26
 
+Tool: Microsoft Browser Copilot 
+
+Model: Copilot
+
+Version: Browser search AI summary
+
+Prompt: "how to make a plot of features by importance to visualize a random forest classifier"
+
+What was changed before committing: I did not copy and paste into the colab. Most of the output was omitted, except for the feature importance dataframe code which I used as a reference and modified to fit our object names. I also used the summary example to see how to modify figure parameters (plot title, x and y axis labels)
+
+How correctness was verified: when i ran the cell and the features were all microbes, i knew i had to do some further reading to figure out how to get it to list floral family, pollinator type, isolate etc.
+
 Tool: Google Gemini
 
 Model: Gemini Chat
